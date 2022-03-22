@@ -2,7 +2,7 @@
 
 ---
 
-👋 **"Connecting the dots, So you have to trust that the dots will somehow connect in your future." -Steve Jobs**
+👋 **"Connecting the dots, So you have to trust that the dots will somehow connect in your future." <br>-Steve Jobs**
 
 ----
 
