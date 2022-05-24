@@ -19,6 +19,10 @@
 - 어제보다 더 나은 내가 되기 위해 나아갑니다
 - 소통을 통해 더 나은 결과를 도출해내기 위해 노력합니다
 
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Python&logoColor=#3776AB"/>
+
+출처:  [코드짜는 문과녀]
+
 ----
 
 👀 저는 데이터 사이언스와 데이터 엔지니어링에 관심이 많습니다<br>
