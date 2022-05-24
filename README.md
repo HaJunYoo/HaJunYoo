@@ -19,9 +19,8 @@
 - 어제보다 더 나은 내가 되기 위해 나아갑니다
 - 소통을 통해 더 나은 결과를 도출해내기 위해 노력합니다
 
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Python&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/Python?style=flat&logo=Python&logoColor=#3776AB"/>
 
-출처:  [코드짜는 문과녀]
 
 ----
 
