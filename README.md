@@ -1,16 +1,15 @@
-## Self Introduction
-
----
-
-👋 **"Connecting the dots, So you have to trust that the dots will somehow connect in your future." <br>-Steve Jobs**
+# Self Introduction
 
 ----
 
-### 학력
+👋 **"Connecting the dots, So you have to trust that the dots will somehow connect in your future." 
+<br>-Steve Jobs**
 
+----
+<div align=left><h2>📚 학력</h2></div>
 - 한국외국어대학교 산업경영공학과 재학 중 (컴퓨터공학과 부전공)
 
-### 간단 소개 문구
+<div align=left><h2>📚 간단 소개 문구</h2></div>
 
 - 👋 안녕하세요, 유하준입니다
 
@@ -31,7 +30,7 @@ HaJunYoo/HaJunYoo is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align=left><h1>📚 STACKS</h1></div>
+<div align=left><h2>📚 STACKS</h2></div>
 
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
