@@ -64,3 +64,5 @@ You can click the Preview link to take a look at your changes.
   <br>
 </div>
 
+![HaJun's github stats](https://github-readme-stats.vercel.app/api?username=HaJunYoo&show_icons=true&theme=tokyonight)
+
