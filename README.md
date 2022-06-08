@@ -7,6 +7,9 @@
 
 👋 안녕하세요
 
+👀 빅데이터 연합 분석 동아리 BITAMIN 7th 운영진, 8기 멤버
+👀 HUFS 멋쟁이사자처럼 10th 멤버
+
 👀 저는 데이터 사이언스와 데이터 엔지니어링에 관심이 많습니다<br>
 🌱 Now I'm studying deep about Django and I'm gonna Elastic search|Spark in not so far future<br>
 💞️ 언젠가 이 곳에서 협업할 수 있기를 기대합니다<br>
