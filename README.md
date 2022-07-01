@@ -16,7 +16,7 @@
 💞️ 언젠가 이 곳에서 협업할 수 있기를 기대합니다 <br>
 📫 How to reach me -> https://linktr.ee/yookie1209<br>
 👀 This is my portfolio resume : https://innovative-tortoise-4fd.notion.site/554998db07aa4dee88964118770706c3 <br>
-👀 My Blog : https://hajunyoo.github.io/
+👀 My Blog : https://hajunyoo.github.io/Blog
 
 <!---
 HaJunYoo/HaJunYoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
