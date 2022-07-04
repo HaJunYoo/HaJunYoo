@@ -1,5 +1,5 @@
-👋 **"Connecting the dots, So you have to trust that the dots will somehow connect in your future." 
-<br>-Steve Jobs**
+<h4>👋 **"Connecting the dots, So you have to trust that the dots will somehow connect in your future." 
+<br>-Steve Jobs**</h4>
 ----
 <div align=left><h3>📚About me</h3></div>
 
