@@ -10,12 +10,12 @@
 👀 빅데이터 연합 분석 동아리 BITAMIN 7th 운영진, 8th 멤버 <br>
 👀 HUFS 멋쟁이사자처럼 10th 멤버
 
-👀 저는 데이터 사이언스와 데이터 엔지니어링에 관심이 많습니다 <br>
+👀 Interested in Data science and Data engineering <br>
 🌱 Now I'm studying deep about Django <br> 
-🌱 Hope to study : Elastic search & Spark <br>
+🌱 Hope to study : Elk stack & Spark <br>
 💞️ 언젠가 이 곳에서 협업할 수 있기를 기대합니다 <br>
 📫 How to reach me -> https://linktr.ee/yookie1209<br>
-👀 This is my portfolio resume : https://innovative-tortoise-4fd.notion.site/554998db07aa4dee88964118770706c3 <br>
+👀 This is my portfolio resume : [click resume](https://innovative-tortoise-rec-django.notion.site/554998db07aa4dee88964118770706c3) <br>
 👀 My Blog : https://hajunyoo.github.io/Blog
 
 <!---
