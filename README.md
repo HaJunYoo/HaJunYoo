@@ -1,19 +1,17 @@
 👋 **"Connecting the dots, So you have to trust that the dots will somehow connect in your future." 
 <br>-Steve Jobs**
-
 ----
+<div align=left><h3>📚About me</h3></div>
 
-<div align=left><h2>📚 간단 소개 문구</h2></div>
+👋 Hello<br>
 
-👋 안녕하세요<br>
-
-👀 빅데이터 연합 분석 동아리 BITAMIN 7th 운영진, 8th 멤버 <br>
-👀 HUFS 멋쟁이사자처럼 10th 멤버
+👀 빅데이터 연합 분석 동아리 BITAMIN 7th management, 8th member <br>
+👀 HUFS LikeLion(멋쟁이사자처럼) 10th member
 
 👀 Interested in Data science and Data engineering <br>
 🌱 Now I'm studying deep about Django <br> 
 🌱 Hope to study : Elk stack & Spark <br>
-💞️ 언젠가 이 곳에서 협업할 수 있기를 기대합니다 <br>
+💞️ Hope to collaborate in here <br>
 📫 How to reach me -> https://linktr.ee/yookie1209<br>
 👀 This is my portfolio resume : [click resume](https://innovative-tortoise-rec-django.notion.site/554998db07aa4dee88964118770706c3) <br>
 👀 My Blog : https://hajunyoo.github.io/Blog
