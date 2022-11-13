@@ -45,9 +45,7 @@ You can click the Preview link to take a look at your changes.
   <br>
 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <br>
-  <br>
-
+  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black"> 
   <br>
   
