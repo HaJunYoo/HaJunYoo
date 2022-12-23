@@ -9,7 +9,7 @@
 👀 HUFS LikeLion(멋쟁이사자처럼) 10th member
 
 👀 Interested in Data science and Data engineering <br>
-🌱 Now I'm studying deep about Django <br> 
+🌱 Now I'm studying deep about Django, fastapi, kafka, hdfs, mapreduce <br> 
 🌱 Hope to study : Elk stack & Spark <br>
 💞️ Hope to collaborate in here <br>
 📫 How to reach me -> https://hajunyoo.oopy.io/<br>
