@@ -14,8 +14,10 @@
 💞️ Hope to collaborate in here <br>
 📫 How to reach me -> https://hajunyoo.oopy.io/<br>
 👀 This is my portfolio resume : [click resume](https://innovative-tortoise-rec-django.notion.site/554998db07aa4dee88964118770706c3) <br>
-👀 My Blog : https://hajunyoo.github.io/Blog
-
+👀 My Blog : <br>
+- (Main) https://hajunyoo.oopy.io/ <br>
+- (Sub) https://hajunyoo.github.io/Blog
+<br>
 <!---
 HaJunYoo/HaJunYoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
