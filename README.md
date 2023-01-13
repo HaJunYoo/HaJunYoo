@@ -7,6 +7,7 @@
 
 👀 빅데이터 연합 분석 동아리 BITAMIN 7th management, 8th member <br>
 👀 HUFS LikeLion(멋쟁이사자처럼) 10th member
+👀 빅데이터 연합 동아리 BOAZ 20th Engineering member
 
 👀 Interested in Data science and Data engineering <br>
 🌱 Now I'm studying deep about Django, fastapi, kafka, hdfs, mapreduce <br> 
