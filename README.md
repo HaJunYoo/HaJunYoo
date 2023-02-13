@@ -11,7 +11,7 @@
 
 👀 Interested in Data science and Data engineering <br>
 🌱 Now I'm studying deep about Audio processing, SQL, fastapi, kafka, mapreduce, pySpark, Airflow <br> 
-🌱 Hope to study : Elk stack & Spark <br>
+🌱 Hope to study : Elk stack & Spark & Scala <br>
 💞️ Hope to collaborate in here <br>
 📫 How to reach me -> https://hajunyoo.oopy.io/<br>
 👀 This is my portfolio resume : [click resume](https://innovative-tortoise-rec-django.notion.site/554998db07aa4dee88964118770706c3) <br>
