@@ -14,7 +14,7 @@
 🌱 Hope to study : Elk stack & Spark & Scala <br>
 💞️ Hope to collaborate in here <br>
 📫 How to reach me -> https://hajunyoo.oopy.io/<br>
-👀 This is my portfolio resume : [click resume](https://innovative-tortoise-rec-django.notion.site/554998db07aa4dee88964118770706c3) <br>
+👀 This is my portfolio resume : [click resume](https://career.programmers.co.kr/pr/hajuny129_4953) <br>
 👀 My Blog : <br>
 - (Main) https://hajunyoo.oopy.io/ <br>
 - (Sub) https://hajunyoo.github.io/Blog
