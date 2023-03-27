@@ -1,7 +1,7 @@
 <div align=center>
   
-><h4>"Connecting the dots, So you have to trust that the dots will somehow connect in your future." 
-><br>- Steve Jobs</h4>
+> <h4>"Connecting the dots, So you have to trust that the dots will somehow connect in your future." 
+> <br>- Steve Jobs</h4>
 ----
 <h3>📚About me</h3>
 
