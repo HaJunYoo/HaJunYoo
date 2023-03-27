@@ -11,10 +11,13 @@
 👀 HUFS LikeLion(멋쟁이사자처럼) 10th member<br>
 👀 빅데이터 연합 동아리 BOAZ 20th Engineering member<br>
 
-👀 Interested in Data science and Data engineering <br>
+🌱 Interested in Data science and Data engineering <br>
 🌱 Now I'm studying about Audio processing, SQL, fastapi, kafka, mapreduce, pySpark, Airflow <br> 
 🌱 Hope to study : Elk stack & Spark & Scala <br>
-💞️ Hope to collaborate in here <br>
+🌱 Hope to collaborate in here <br>
+  
+<hr>
+  
 📫 How to reach me -> https://hajunyoo.oopy.io/<br>
 👀 This is my portfolio resume : [click resume](https://career.programmers.co.kr/pr/hajuny129_4953) <br>
 👀 My Blog : <br>
