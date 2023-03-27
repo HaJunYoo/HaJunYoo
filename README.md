@@ -1,7 +1,7 @@
 ><h4>"Connecting the dots, So you have to trust that the dots will somehow connect in your future." 
 ><br>- Steve Jobs</h4>
 ----
-<div align=left><h3>📚About me</h3></div>
+<div align=left><h3>📚About me</h3>
 
 👋 Hello<br>
 
@@ -26,3 +26,4 @@ You can click the Preview link to take a look at your changes.
 
 ![HaJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaJunYoo&show_icons=true&theme=radical)
 
+</div>
