@@ -18,8 +18,8 @@
 📫 How to reach me -> https://hajunyoo.oopy.io/<br>
 👀 This is my portfolio resume : [click resume](https://career.programmers.co.kr/pr/hajuny129_4953) <br>
 👀 My Blog : <br>
-- (Main) https://hajunyoo.oopy.io/ <br>
-- (Sub) https://hajunyoo.github.io/Blog
+(Main) https://hajunyoo.oopy.io/ <br>
+(Sub) https://hajunyoo.github.io/Blog
 <br>
 <!---
 HaJunYoo/HaJunYoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
