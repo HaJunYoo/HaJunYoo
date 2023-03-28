@@ -19,7 +19,7 @@
 <hr>
   
 📫 How to reach me -> https://hajunyoo.oopy.io/<br>
-👀 This is my portfolio resume : [click resume | linkedin]([https://career.programmers.co.kr/pr/hajuny129_4953](https://www.linkedin.com/in/%ED%95%98%EC%A4%80-%EC%9C%A0-5ab111237/)) <br>
+👀 This is my portfolio resume : [click resume | linkedin](https://career.programmers.co.kr/pr/hajuny129_4953](https://www.linkedin.com/in/%ED%95%98%EC%A4%80-%EC%9C%A0-5ab111237/) <br>
 👀 My Blog : <br>
 (Main) https://hajunyoo.oopy.io/ <br>
 (Sub) https://hajunyoo.github.io/Blog
