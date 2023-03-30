@@ -28,7 +28,7 @@
 HaJunYoo/HaJunYoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HaJunYoo&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaJunYoo&show_icons=true&theme=radical"/> </a>
   
 ![HaJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaJunYoo&show_icons=true&theme=radical)
 </div>
