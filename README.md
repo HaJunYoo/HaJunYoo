@@ -18,10 +18,10 @@
   
 <hr>
   
-📫 How to reach me -> www.yuki-data-engineering.online/<br>
+📫 How to reach me -> https://hajunyoo.oopy.io/ <br>
 👀 This is my portfolio resume : [click resume | linkedin](https://www.linkedin.com/in/%ED%95%98%EC%A4%80-%EC%9C%A0-5ab111237/) <br>
 👀 My Blog : <br>
-(Main) www.yuki-data-engineering.online/ <br>
+(Main) https://hajunyoo.oopy.io/ <br>
 (Sub) https://hajunyoo.github.io/Blog
 <br>
 <!---
