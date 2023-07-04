@@ -17,7 +17,7 @@
 
 🌱 I am interested in Data Science and Data Engineering.
 - Currently, I am studying SQL, Django, Kafka, PySpark, Airflow, and AWS Data Infrastructure.
-- I hope to study Elk stack & Spark with Scala in the future.
+- Hope to study Tableau in the future
 - I am also open to collaborations.
 
 <hr>
