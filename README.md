@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 > <h4>"Connecting the dots, So you have to trust that the dots will somehow connect in your future." 
 > <br>- Steve Jobs</h4>
