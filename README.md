@@ -14,7 +14,7 @@
 👀 Programmers Dev Course Data Engineering 1th<br>
 
 🌱 Interested in Data science and Data engineering <br>
-🌱 Now I'm studying about SQL, fastapi, kafka, pySpark, Airflow, AWS Data Infrastructure <br> 
+🌱 Now I'm studying about SQL, Django, kafka, pySpark, Airflow, AWS Data Infrastructure <br> 
 🌱 Hope to study : Elk stack & Spark with Scala <br>
 🌱 Hope to collaborate in here <br>
   
