@@ -22,10 +22,10 @@
 
 <hr>
 
-📫 How to reach me: [My Portfolio](https://hajunyoo.oopy.io/)
-👀 This is my portfolio resume: [LinkedIn](https://www.linkedin.com/in/yuki-hajun/)
-👀 My Blogs:
-  - [Main Blog](https://hajunyoo.oopy.io/)
+📫 How to reach me: [My Portfolio](https://hajunyoo.oopy.io/) <br>
+👀 This is my portfolio resume: [LinkedIn](https://www.linkedin.com/in/yuki-hajun/) <br>
+👀 My Blogs: <br>
+  - [Main Blog](https://hajunyoo.oopy.io/) 
   - [Sub Blog](https://hajunyoo.github.io/Blog)
 
 <br>
