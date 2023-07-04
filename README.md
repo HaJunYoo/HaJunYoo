@@ -24,6 +24,7 @@
 
 👀 This is my portfolio linkedin: [LinkedIn](https://www.linkedin.com/in/yuki-hajun/)  <br>
 
+
 👀 My Blogs: <br>
   - [Main Blog](https://hajunyoo.oopy.io/) 
   - [Sub Blog](https://hajunyoo.github.io/Blog)
