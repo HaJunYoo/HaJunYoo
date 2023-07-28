@@ -32,3 +32,4 @@
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HaJunYoo&show_icons=true&theme=radical"> </a>
   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hajuny129)](https://solved.ac/hajuny129/)
