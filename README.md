@@ -15,7 +15,7 @@
 - Programmers Dev Course Data Engineering: 1st
 
 🌱 I am interested in Data Science and Data Engineering.
-- Currently, I am studying SQL, Django, Kafka, PySpark, Airflow, and AWS Data Infrastructure.
+- Currently, I am studying SQL, Django, FastAPI, Kafka, PySpark, Airflow, and AWS Data Infrastructure.
 - Hope to study Tableau in the future
 - I am also open to collaborations.
 
