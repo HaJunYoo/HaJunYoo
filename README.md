@@ -25,7 +25,6 @@
 
 👀 My Blogs: <br>
   - [Main Blog](https://hajunyoo.oopy.io/) 
-
 <br>
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HaJunYoo&show_icons=true&theme=radical"> </a>
