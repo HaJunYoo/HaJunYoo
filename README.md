@@ -5,7 +5,7 @@
 ----
 <h3>📚 About me</h3>
 
-👋 Hello!<br>
+👋 Hello! I am Jr.Data engineer <br>
 
 👀 I am a member of the following organizations:
 - 빅데이터 연합 분석 동아리 BITAMIN: 7th management, 8th member
@@ -17,7 +17,6 @@
 🌱 I am interested in Data Science and Data Engineering.
 - Currently, I am studying SQL, Django, FastAPI, Kafka, PySpark, Airflow, and AWS Data Infrastructure.
 - Hope to study Tableau in the future
-- I am also open to collaborations.
 
 <hr>
 
@@ -26,7 +25,6 @@
 
 👀 My Blogs: <br>
   - [Main Blog](https://hajunyoo.oopy.io/) 
-  - [Sub Blog](https://hajunyoo.github.io/Blog)
 
 <br>
 
