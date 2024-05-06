@@ -15,9 +15,9 @@
 - Cloud club : 4, 5th member
 - Programmers Dev Course Data Engineering: 1st
 
-🌱 I am interested in Data Science and Data Engineering.
-- Currently, I am studying SQL, FastAPI, Airflow, and Github action, AWS Data Infrastructure, k8s.
-- Hope to study more about Kafka, PySpark.
+🌱 I am interested in Data Science & Engineering
+- Currently, Interested in SQL, FastAPI, Airflow, Kafka, and Github action, AWS Data Infrastructure, k8s.
+- Hope to study more about Spark.
 
 <hr>
 
