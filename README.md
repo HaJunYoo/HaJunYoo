@@ -15,7 +15,7 @@
 - AUSG(AWSKRUG University Student Group): 7th member, 8th management
 - Cloud club : 4, 5th member
 
-🌱 I am interested in Data Science & Engineering <br>
+🌱 I am interested in Data Science & SW/Data Engineering <br>
 
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
