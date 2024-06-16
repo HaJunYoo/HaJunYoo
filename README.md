@@ -11,13 +11,19 @@
 - 빅데이터 연합 분석 동아리 BITAMIN: 7th management, 8th member
 - HUFS LikeLion(멋쟁이사자처럼): 10th member
 - 빅데이터 연합 동아리 BOAZ: 20th Engineering member
-- AUSG(AWSKRUG University Student Group): 7th member
-- Cloud club : 4, 5th member
 - Programmers Dev Course Data Engineering: 1st
+- AUSG(AWSKRUG University Student Group): 7th member, 8th management
+- Cloud club : 4, 5th member
 
 🌱 I am interested in Data Science & Engineering
-- Currently, Interested in SQL, FastAPI, Airflow, Kafka, and Github action, AWS Data Infrastructure, k8s.
-- Hope to study more about Spark.
+![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 <hr>
 
@@ -25,7 +31,8 @@
 
 
 👀 My Blogs: <br>
-  - [Main Blog](https://hajunyoo.oopy.io/) 
+  - [Main Blog](https://www.yuki-dev-blog.site/)
+  - [TIL Blog](https://www.yuki-til-blog.site/)
 <br>
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HaJunYoo&show_icons=true&theme=radical"> </a>
