@@ -42,7 +42,6 @@
 
 👀 My Blogs: <br>
   - [Main Blog](https://www.yuki-dev-blog.site/)
-  - [TIL Blog](https://www.yuki-til-blog.site/)
 
 <br>
 
