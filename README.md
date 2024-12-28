@@ -8,9 +8,9 @@
 🌱 I am passionate about Data Science and Software/Data Engineering. <br>
 👀 I have been actively involved in the following organizations: <br>
   - BITAMIN (Big Data Analysis Union Club): 7th management team, 8th member
-  - HUFS LikeLion: 10th member
+  - HUFS LikeLion (SW Union Club): 10th member
   - BOAZ (Big Data Analysis Union Club): 20th Engineering member
-  - Programmers Dev Course - Data Engineering Track: 1st cohort
+  - Programmers (Grepp) - Data Engineering Dev Course Track: 1st cohort
   - AUSG (AWSKRUG University Student Group): 7th member, 8th management team
   - Cloud Club: 4th, 5th, and 6th member
 
