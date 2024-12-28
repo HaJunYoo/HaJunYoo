@@ -1,21 +1,18 @@
 > "Connecting the dots, So you have to trust that the dots will somehow connect in your future." 
 > - Steve Jobs
-
 ---
 
 ### 📚 About me
 
-👋 Hello! I am a Jr developer <br>
-
-👀 I am a member of the following organizations:
-- 빅데이터 연합 분석 동아리 BITAMIN: 7th management, 8th member
-- HUFS LikeLion(멋쟁이사자처럼): 10th member
-- 빅데이터 연합 동아리 BOAZ: 20th Engineering member
-- Programmers Dev Course Data Engineering: 1st
-- AUSG(AWSKRUG University Student Group): 7th member, 8th management
-- Cloud club: 4, 5th member
-
-🌱 I am interested in Data Science & SW/Data Engineering <br>
+👋 Hello! I am a junior developer. <br>
+🌱 I am passionate about Data Science and Software/Data Engineering. <br>
+👀 I have been actively involved in the following organizations: <br>
+  - BITAMIN (Big Data Analysis Union Club): 7th management team, 8th member
+  - HUFS LikeLion: 10th member
+  - BOAZ (Big Data Analysis Union Club): 20th Engineering member
+  - Programmers Dev Course - Data Engineering Track: 1st cohort
+  - AUSG (AWSKRUG University Student Group): 7th member, 8th management team
+  - Cloud Club: 4th, 5th, and 6th member
 
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
