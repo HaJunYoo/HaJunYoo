@@ -40,7 +40,7 @@
 👀 This is my portfolio linkedin: [LinkedIn](https://www.linkedin.com/in/yuki-hajun/)  <br>
 
 👀 My Blogs: <br>
-  - [Main Blog](https://www.yuki-dev-blog.site/)
+  - [Main Blog](https://yuki-dev-blog.notion.site/)
 
 <br>
 
