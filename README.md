@@ -1,20 +1,6 @@
-> "Connecting the dots, So you have to trust that the dots will somehow connect in your future."  
-> — Steve Jobs  
-
 ## 📚 About me  
-👋 Hello! I am a junior developer.  
-🌱 I am passionate about Data Science and Software/Data Engineering.  
-
-<details>
-  <summary>🏢 Organizations</summary>
-  
-  - **BITAMIN** (Big Data Analysis Union Club): 7th management team, 8th member  
-  - **HUFS LikeLion** (SW Union Club): 10th member  
-  - **BOAZ** (Big Data Analysis Union Club): 20th Engineering member  
-  - **Programmers (Grepp) - Data Engineering Dev Course Track**: 1st cohort  
-  - **AUSG (AWSKRUG University Student Group)**: 7th member, 8th management team  
-  - **Cloud Club**: 4th, 5th, and 6th member  
-</details>
+Hello! I am a junior developer.  
+I am passionate about Data Science and Software/Data Engineering.  
 
 ## 🛠 Tech Stack  
 
