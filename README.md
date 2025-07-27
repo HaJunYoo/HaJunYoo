@@ -1,5 +1,5 @@
 ## 📚 About me  
-Hello! I am a junior developer.  
+Hello! I am a Junior developer.  
 I am passionate about Data Science and Software/Data Engineering.  
 
 ## 🛠 Tech Stack  
