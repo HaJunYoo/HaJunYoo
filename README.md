@@ -1,6 +1,5 @@
-## 📚 About me  
-Hello! I am a Junior developer.  
-I am passionate about Data Science and Software/Data Engineering.  
+## 📚 About
+Aspiring to become a well-rounded generalist in the AI and Data domain.
 
 ## 🛠 Tech Stack  
 
@@ -25,9 +24,8 @@ I am passionate about Data Science and Software/Data Engineering.
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-## 👀 Portfolio & Blog  
+## 👀 Portfolio  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yuki-hajun/)  
-- **Main Blog**: [Notion Blog](https://yuki-dev-blog.notion.site/)  
 
 <a href="https://github.com/HaJunYoo">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HaJunYoo&show_icons=true&theme=radical" alt="GitHub Stats">
